@@ -45,3 +45,13 @@ p{
 h3{
   font-family: monospace;
 }
+ol{
+  font-family: monospace;
+  color: white;
+}
+
+footer{
+  color:white;
+  font-family: cursive;
+  margin-bottom: 20px;
+}

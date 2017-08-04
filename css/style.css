@@ -1,0 +1,15 @@
+.sidenav{
+  width:200px;
+  height:auto;
+  float:left;
+}
+
+.sideimg{
+  width:100%;
+  border-radius: 50%;
+}
+
+
+li {
+  list-style-type: none;
+}

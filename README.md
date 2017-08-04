@@ -6,7 +6,7 @@ Author: Nate McGregor
 Project: Portfolio week 1
 
 Description:
-This project demonstrates understanding of basic HTML, CSS, Bootstrap, Git, and design elements withing those. 
+This project demonstrates understanding of basic HTML, CSS, Bootstrap, Git, and design elements within those. 
 This specific site looks at some projects from over the week, and has small sections about myself. 
 
 Setup instructions:

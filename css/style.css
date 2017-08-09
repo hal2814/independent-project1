@@ -1,0 +1,72 @@
+.sidenav{
+  width:200px;
+  height:auto;
+  float:left;
+}
+
+.sideimg{
+  width:100%;
+  border-radius: 50%;
+}
+
+.boxes{
+  width:75%;
+}
+
+li {
+  list-style-type: none;
+}
+
+body{
+  background-image: url(https://vintageportland.files.wordpress.com/2013/01/parc-industrial-map-of-portland-1924-5k.jpg);
+}
+
+.panel-transparent{
+  background: none;
+  background-color:rgba(0, 0, 0, 0.6);
+}
+
+h3.panel-title{
+  font-size: 25px;
+}
+
+ul.nav{
+  font-size: 18px;
+  font-family: inherit;
+}
+
+.previewimg{
+  margin: 20px;
+  width: 85%;
+}
+
+.linkhov:hover {
+    opacity: 0.7;
+    filter: alpha(opacity=50);
+}
+
+p{
+  color: white;
+  font-size: 18px;
+  font-family: monospace;
+  margin-left: 3px;
+}
+
+h3{
+  font-family: monospace;
+}
+ol{
+  font-family: monospace;
+  color: white;
+}
+
+footer{
+  color:white;
+  font-family: cursive;
+  margin-bottom: 20px;
+}
+
+.spanex{
+  font-style: italic;
+  font-weight: bolder;
+}
